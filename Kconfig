@@ -1,0 +1,5 @@
+source "Kconfig.zephyr"
+
+config MYISRENABLE
+   bool "Enable custom ISR function"
+   default n

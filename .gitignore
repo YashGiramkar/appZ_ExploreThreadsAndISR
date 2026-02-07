@@ -1,0 +1,8 @@
+# Zephyr workspace ignores
+/build/
+/.cache/
+/.venv/
+
+# IDE
+.vscode/
+
